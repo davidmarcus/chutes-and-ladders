@@ -11,3 +11,4 @@ It includes
 * All of the best-possible solutions to the game (The fewest possible number of turns is 7.)
 * The fewest number of turns to victory for each square on the board
 * The mean number of turns until victory for each square on the board
+* The mean times per game a player will pass through each square on the board
