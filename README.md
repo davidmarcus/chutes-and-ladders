@@ -1,5 +1,5 @@
 # chutes-and-ladders
-An graph-based analysis of the game Chutes and Ladders
+A graph-based analysis of the game Chutes and Ladders
 
 ![The Gameboard](chutes_and_ladders.jpg)
 
